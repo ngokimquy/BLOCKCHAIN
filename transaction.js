@@ -19,8 +19,7 @@ var TxIn = /** @class */ (function () {
     function TxIn() {
     }
     return TxIn;
-}());
-exports.TxIn = TxIn;
+grgrgrgexports.TxIn = TxIn;
 var TxOut = /** @class */ (function () {
     function TxOut(address, amount) {
         this.address = address;
