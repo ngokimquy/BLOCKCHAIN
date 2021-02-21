@@ -10,7 +10,7 @@ var UnspentTxOut = /** @class */ (function () {
         this.txOutId = txOutId;
         this.txOutIndex = txOutIndex;
         this.address = address;
-        this.amount = amount;
+      
     }
     return UnspentTxOut;
 }());
